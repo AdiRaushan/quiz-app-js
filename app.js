@@ -57,5 +57,3 @@ const quizData = [
     correct: "b",
   },
 ];
-
-sssju;
